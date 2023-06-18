@@ -1,5 +1,6 @@
 body{background-color: black; color: rgb(7, 203, 7);} 
 .note{text-align: center; color: rgb(0, 110, 255);}
+.grey{color: rgba(128, 128, 128, 0.68);}
 .summary{text-align: center;}
 #nol{text-align: center;}
 #satu{color: black;}
