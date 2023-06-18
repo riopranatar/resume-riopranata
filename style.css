@@ -21,12 +21,9 @@ link{display: none;}
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  gap: 2rem;
   }
   .wed {
     flex: 1;
-      max-width: 400px;
       padding: 20px;
       border-radius: 5px;
       text-align: center;
